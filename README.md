@@ -1,6 +1,6 @@
-最近愈发感觉需要系统学习和练习下算法；
-为什么算法是必要的：
-1. 对实际项目中问题的解决
-基本所有问题都围绕数据，对这么数据做某些操作得到某个数据，这么操作怎么实现呢？
-对每个常见细小操作的实现积累才能完成复杂操作的实现
-2. 你在很多开源项目，看他们解决的问题，看他们的实现时，你的理解粒度会变大，
+- the best way to learn sth is to reimplement it.
+- when you think you have understood sth, better to reimplement it for checking
+
+基于这个想法：决定重新实现所有学到的东西：算法、浏览器、编译器、图像分析...
+
+具体这个项目会[参考](https://github.com/trekhleb/javascript-algorithms/blob/master/jest.config.js) 来补漏 
